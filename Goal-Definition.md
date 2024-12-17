@@ -15,5 +15,5 @@
 5. Log user in if successful.
 
 
-NOTE: [*] indicates fully completed goals.
-      (*) indicates semi-completed goals.
+NOTE: '[*]' indicates fully completed goals.
+      '(*)' indicates semi-completed goals.
